@@ -63,19 +63,19 @@ section {
 #banner {
     background-image: linear-gradient(rgba(0, 0, 0, 0.2),
             rgba(0, 0, 0, 0.2)),
-        url("/media/img/banner.jpg");
+        url("https://joshbm-git.github.io/WebDoc/media/img/banner.jpg");
 }
 
 #community {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5),
             rgba(0, 0, 0, 0.5)),
-        url("/media/img/community.jpg");
+        url("https://joshbm-git.github.io/WebDoc/media/img/community.jpg");
 }
 
 #creativity {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5),
             rgba(0, 0, 0, 0.5)),
-        url("/media/img/creativity.jpg");
+        url("https://joshbm-git.github.io/WebDoc/media/img/creativity.jpg");
 }
 
 .parallax figure {
